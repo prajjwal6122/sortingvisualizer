@@ -1,4 +1,4 @@
-## Can view this Project on  [Sorting Visualizer](https://howsortingworks.netlify.app/).
+# Can view this Project on  [Sorting Visualizer](https://howsortingworks.netlify.app/).
 
 # Getting Started with Create React App
 
